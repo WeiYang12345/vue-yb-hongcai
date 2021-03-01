@@ -1,0 +1,27 @@
+{
+
+  "首页专家列表": "",    
+  "EXPERT_HOME": "/hc/experts-home",    
+
+  "文章推荐": "",
+  "ARTICLE_PLAN": "/hc/article-plan",
+
+  "专家列表": "",
+  "HC_EXPERTS": "/hc/experts",
+
+
+  "专家详情": "",
+  "EXPERT_INFO":"/hc/experts-info",
+
+  "文章详情": "",
+  "ARTICLE_INFO": "/hc/article-info",
+
+  "文章列表": "",
+  "HC_ARTICLE": "/hc/article",
+
+  "广告": "",
+  "HC_ADLIST": "/hc/ad-list" ,
+
+  "标题": "",
+  "HC_EXPERTS_TYPE": "/hc/experts-type" 
+}
